@@ -1,0 +1,17 @@
+The test cases for the automated are mentioned below. To automate the OrangeHRM WebApplication, create TestNG frameworks utilising Selenium with Java, and maven.
+
+Automation Test Cases:-
+
+1> Verify that the Username and Password text field should be null or blank. // login page -> 2 web elements
+
+2> To Verify the Login Functionality, Logout CTA should be visible. ////dashboard page-> 1 web elements, 4 link element
+
+3> To Verify the punch-in and Punch-out functionality, The date and time should match as system date and time. 
+	//dashboard page-> 1 web elements, Attendace page -> 2 web elements
+
+4> To Verify the quick launch buttons, All CTA should be highlighted or hovered. 
+	//dashboard page-> 6 web elements
+
+After the script has been run, an HTML report should be produced. Please send the frameworks in the same email along with the zip file.  
+
+Please submit it by Friday, 17th March, 2023, by 5 p.m.
